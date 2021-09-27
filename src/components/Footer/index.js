@@ -32,7 +32,7 @@ class Footer extends Component {
           </a>
           <a
             className="no_decoration_link footer__text"
-            href="https://eliasbenb.cf/"
+            href="https://google.com/"
             target="_blank"
           >
             {`© 2021 Copyright: Drake - v${version}`}
