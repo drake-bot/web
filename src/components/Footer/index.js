@@ -35,7 +35,7 @@ class Footer extends Component {
             href="https://eliasbenb.cf/"
             target="_blank"
           >
-            {`© 2021 Copyright: Elias Benbourenane - v${version}`}
+            {`© 2021 Copyright: Drake - v${version}`}
           </a>
         </footer>
       </div>
